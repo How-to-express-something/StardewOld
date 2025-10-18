@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\godotproject\\godotgame\\game-00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_tools.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_tools.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_state.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_state.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\player_data.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player_data.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state_machine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state_machine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\register_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\register_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\register_types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\register_types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\example.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\example.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\SConstruct||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SConstruct||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\state_machine.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\state_machine.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\yz.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\yz.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\yz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\yz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\yz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\yz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\src\\register_types.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\register_types.windows.template_debug.x86_64.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\compile_commands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compile_commands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\godotproject\\godotgame\\game-00\\godot-cpp\\SConstruct||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:godot-cpp\\SConstruct||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player_tools.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_tools.h",
+              "RelativeDocumentMoniker": "src\\player_tools.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_tools.h",
+              "RelativeToolTip": "src\\player_tools.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-15T07:18:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "player_state.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\player_state.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\player_state.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-13T15:37:26.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "state.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\state.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\state.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-13T14:31:48.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "player_data.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\player_data.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\player_data.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-13T09:23:47.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player_data.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.cpp",
+              "RelativeDocumentMoniker": "src\\player_data.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.cpp",
+              "RelativeToolTip": "src\\player_data.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T08:38:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player_data.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.h",
+              "RelativeDocumentMoniker": "src\\player_data.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_data.h",
+              "RelativeToolTip": "src\\player_data.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T08:30:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player_state.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.cpp",
+              "RelativeDocumentMoniker": "src\\player_state.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.cpp",
+              "RelativeToolTip": "src\\player_state.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAK0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T16:30:15.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player_state.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.h",
+              "RelativeDocumentMoniker": "src\\player_state.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\player_state.h",
+              "RelativeToolTip": "src\\player_state.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T16:29:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "state.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state.h",
+              "RelativeDocumentMoniker": "src\\state.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state.h",
+              "RelativeToolTip": "src\\state.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T06:48:20.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "state.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state.cpp",
+              "RelativeDocumentMoniker": "src\\state.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state.cpp",
+              "RelativeToolTip": "src\\state.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T06:48:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "state_machine.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\state_machine.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\state_machine.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-15T07:53:07.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "string.hpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp",
+              "RelativeDocumentMoniker": "godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp",
+              "RelativeToolTip": "godot-cpp\\gen\\include\\godot_cpp\\variant\\string.hpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T17:02:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "yz.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\yz.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\yz.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\yz.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\yz.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-13T08:29:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "state_machine.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.cpp",
+              "RelativeDocumentMoniker": "src\\state_machine.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.cpp",
+              "RelativeToolTip": "src\\state_machine.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T08:02:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "state_machine.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.h",
+              "RelativeDocumentMoniker": "src\\state_machine.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\state_machine.h",
+              "RelativeToolTip": "src\\state_machine.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T08:02:05.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "example.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\example.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\example.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\example.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\example.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-09T13:34:16.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "register_types.windows.template_debug.x86_64.obj",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.windows.template_debug.x86_64.obj",
+              "RelativeDocumentMoniker": "src\\register_types.windows.template_debug.x86_64.obj",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.windows.template_debug.x86_64.obj",
+              "RelativeToolTip": "src\\register_types.windows.template_debug.x86_64.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVEhLpZRRTFNnFMf/lzuCBjRIYOIyp519cTwQSIiQsJg7QaMm1GJIDNMVmbVJGdFAxigpcTwRoVlIKxkxxhpilsjEJ3zRh5HFxAdTArtgtJS2MNasDbCWfgeY09M9jDb0brrO/ZKb3Hv\u002B53/Ol\u002B9\u002B3wHegNVqrSWisBAiduXKlXqt/q8kEgltKEVzc/MnQgjv06dPWVVVJqLg5cuX67R5b0V3d7dRCPGzqqpssVi4qamJnzx5wkKIXxwOx6fa/P\u002BE2Ww\u002BIoQIhUIhNpvNrCgKK4rCTU1NPDc3x0S03NXVZZQkSWv9R\u002BStH2az\u002BcjAwMC3wWDwg6tXr8Ln86W0WCyG6elp6PX67QaD4dDGxkbw8ePHz5O6yWT6eG1t7cXKyopImbayuS2h6elptlgsqZVrn6GhISYiJqLvk97bt2\u002B3CCEWPR7PrZycnHe21s3C5g/t7Ox0rq6uFjudTni93q05fyVmZUFRFJw7dw6JRGKqurq6u6io6F2Xy2UxGo196\u002Bvr7\u002Bn1\u002Bs\u002BWl5e/27lz5/akT7JarbV9fX2DgUBA73Q607YliSzLqKmpQXNzM3Jzc7UyVFWF2\u002B1GZWUlTp8\u002BjWfPng03NjZ\u002B5fP5whIRRebn5wsHBgYwOzur9QIAJEnCnj17sGPHDq0EAAiHw4hGo9i2bRtOnTqFs2fP/u7z\u002BUZKS0tNEhGt\u002Bv3\u002BPIfDgYWFhTSjLMvYtWsXZFkGEUEIgd27d6f0WCyGjY2NNA8AXLx4EXV1dUgkErfk7Ozs5ydPnjx04MCBfK/Xi1gsBmzueW1tLbq6utDQ0ABmxtTUFO7cuQODwYD9\u002B/fD6/UiGo2mFd\u002B3bx\u002BOHz\u002BOwsLC\u002Bf7\u002B/mtZPT099\u002Bx2\u002B6WDBw/\u002BarfbodPpAACHDx/G\u002BfPnkZeX92NahU0mJiYQDAbTYjqdDna7HZu1LvX09NxLiQ6Ho1EIsTI5OZk8ii8XFhZ\u002BKCkpeZ\u002BI2O12s6IoySPKRMS9vb189OjR1EWcnJxkIcSKw\u002BFoTOucxGazGYkoQEQcDofHFUX5CABe1yAcDnN/fz9fuHCBPR4Px\u002BPxuM1me/1QlCQJbW1tBiHEyN69ewuS8dc1ICJeWlriUCjERMRCiD9mZma\u002BSa\u002BaAW9qQETs9/u5o6ODx8bGOB6P84MHD3oLCgpyASDtWmfC9evXtSGoqopAIACfz4dXr16hpqbGeuPGjZf19fXdGY1EIuKRkREMDw9rpb\u002BRnZ0Ni8WCY8eOvYhEIkMZN9DGQqEQXC4XVFVNi\u002Bfn58NqtaKqquq38fHx3owamEymz5Pvg4ODVkmSytxuN0ZHR9PyiouL0dLSgrKyspWbN29\u002B3draei0tIRPKy8t1RPRTNBrl9vb21Bg3Go386NEjFkLw6OhomyzLWVpvxpw5c6YqEolMLS4uss1m44aGBn748CET0dLdu3fbtflvxYkTJ0qFEB6/388TExMshFh2uVxf/K\u002BVa6moqPiQiGbW1tYS9\u002B/f/1KrA8Cftp6PBUjYvqAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-09T13:32:08.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "compile_commands.json",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\compile_commands.json",
+              "RelativeDocumentMoniker": "compile_commands.json",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\compile_commands.json",
+              "RelativeToolTip": "compile_commands.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T18:27:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SConstruct",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\godot-cpp\\SConstruct",
+              "RelativeDocumentMoniker": "godot-cpp\\SConstruct",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\godot-cpp\\SConstruct",
+              "RelativeToolTip": "godot-cpp\\SConstruct",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-08T17:38:23.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SConstruct",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\SConstruct",
+              "RelativeDocumentMoniker": "SConstruct",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\SConstruct",
+              "RelativeToolTip": "SConstruct",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-08T17:37:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "yz.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\yz.h",
+              "RelativeDocumentMoniker": "src\\yz.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\yz.h",
+              "RelativeToolTip": "src\\yz.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T17:26:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "yz.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\yz.cpp",
+              "RelativeDocumentMoniker": "src\\yz.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\yz.cpp",
+              "RelativeToolTip": "src\\yz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T17:26:10.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register_types.cpp",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.cpp",
+              "RelativeDocumentMoniker": "src\\register_types.cpp",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.cpp",
+              "RelativeToolTip": "src\\register_types.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T17:23:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "register_types.h",
+              "DocumentMoniker": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.h",
+              "RelativeDocumentMoniker": "src\\register_types.h",
+              "ToolTip": "C:\\godotproject\\godotgame\\game-00\\src\\register_types.h",
+              "RelativeToolTip": "src\\register_types.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T17:21:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0eo6mjhvp7cg"]
+
+[ext_resource type="PackedScene" uid="uid://bju7osm3mfxhf" path="res://scenes/Houses/house_tile_map.tscn" id="1_kir6y"]
+
+[node name="LargeHouse" type="Node2D"]
+position = Vector2(4, 96)
+
+[node name="HouseTileMap" parent="." instance=ExtResource("1_kir6y")]
+position = Vector2(-15, 183)
